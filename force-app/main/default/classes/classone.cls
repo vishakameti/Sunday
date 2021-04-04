@@ -8,6 +8,6 @@ public with sharing class classone {
     }
     
     public classthree(){
-    system.debug('method 3');
+    system.debug('method 34');
     }
 }
