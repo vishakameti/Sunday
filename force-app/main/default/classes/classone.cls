@@ -16,4 +16,8 @@ public with sharing class classone {
         system.debug('this is branch method');
     }
 
+    public class5(){
+        system.debug('vvvv');
+    }
+
 }
