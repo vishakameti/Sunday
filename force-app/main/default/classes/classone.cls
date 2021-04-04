@@ -6,4 +6,8 @@ public with sharing class classone {
     public classtwo(){
     system.debug('method 2');
     }
+    
+    public classthree(){
+    system.debug('method 3');
+    }
 }
