@@ -10,4 +10,8 @@ public with sharing class classone {
     public classthree(){
     system.debug('method 34');
     }
+
+    public class4(){
+        system.debug('this is branch method');
+    }
 }
